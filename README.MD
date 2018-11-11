@@ -8,7 +8,7 @@ virtualenv in the main folder you do all your web app work.
 Create a virtual env and source it by typing similar:
 source virtualenvs/MYFancyNewVirtualEnvHERE/bin/activate
 
-# Install requirements:
+# Install requirements
 pip install -r requirements.txt
 
 # Running Django project:
